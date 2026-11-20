@@ -1,10 +1,5 @@
 # Ecuaciones Diferenciales Ordinarias — Primer cuatrimestre de 2014
 
-## Equipo docente
-
-- **Clases teóricas:** Constanza Sánchez de la Vega
-- **Clases prácticas:** Paula Kuna
-
 ## Prácticas
 
 - [Existencia y unicidad de soluciones.](prac2_2014.pdf)
